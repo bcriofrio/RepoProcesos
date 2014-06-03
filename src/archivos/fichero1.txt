@@ -1,0 +1,8 @@
+******PERSONA********: 
+
+Cedula de identidad:1104072556
+Apellidos de la persona:Riofrio Pérez
+Nombres de la persona:Blanca Cecilia
+Fecha de nacimiento de la persona:19 de agosto de 1991
+Profesion :Ingeniera en Sistemas
+Estado civil :Soltera
